@@ -1,0 +1,8 @@
+com\perrosv1\app\ServletInitializer.class
+com\perrosv1\app\repositorios\PerroRepository.class
+com\perrosv1\app\controladores\PerroController.class
+com\perrosv1\app\configuraciones\ConfiguracionesSeguridad.class
+com\perrosv1\app\controladores\MainController.class
+com\perrosv1\app\PerrosV1Application.class
+com\perrosv1\app\entidades\Perro.class
+com\perrosv1\app\servicios\PerroService.class
