@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/menu/Menu.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/entidad/Producto.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/servicio/ServicioProducto.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/persistencia/DAO.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/persistencia/ProductoDAO.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/excepcion/MiExcepcion.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/persistencia/FabricanteDAO.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/servicio/ServicioFabricante.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/principal/Main.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JDBC/Tienda/src/entidad/Fabricante.java</file>
+        </group>
+    </open-files>
+</project-private>

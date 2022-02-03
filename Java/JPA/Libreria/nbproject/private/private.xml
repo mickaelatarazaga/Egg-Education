@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/entidades/Libro.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/Menu.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/servicios/ServicioLibro.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/Libreria.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/entidades/Editorial.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/persistencia/EditorialDAO.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/persistencia/AutorDAO.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/servicios/ServicioEditorial.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/entidades/Autor.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/persistencia/LibroDAO.java</file>
+            <file>file:/C:/Users/Ezequiel/Desktop/Full-Stack-Egg-main/JPA/Libreria/src/libreria/servicios/ServicioAutor.java</file>
+        </group>
+    </open-files>
+</project-private>
